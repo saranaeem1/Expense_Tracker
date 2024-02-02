@@ -21,3 +21,6 @@ The Expense Tracker App is a React.js web application designed to help users man
 - HTML5
 - CSS3
 - JavaScript
+
+## Deployment
+The Expense Tracker App is deployed and accessible at https://expense-tracker-jet-nine.vercel.app/
